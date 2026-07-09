@@ -255,11 +255,11 @@ with tab1:
     with k3:
         st.markdown(f'<div class="kpi purple"><div class="kpi-val">{sheet_task_count}</div><div class="kpi-lbl">Total Clubs Collected</div></div>', unsafe_allow_html=True)
     with k4:
-        st.markdown(f'<div class="kpi amber"><div class="kpi-val">{active_days}</div><div class="kpi-lbl">Active Days</div></div>', unsafe_allow_html=True)
+        st.markdown("")
     with k5:
-        st.markdown(f'<div class="kpi green"><div class="kpi-val">{distinct_contacts}</div><div class="kpi-lbl">Distinct Contacts</div></div>', unsafe_allow_html=True)
-    with k6:
-        st.markdown(f'<div class="kpi purple"><div class="kpi-val">{distinct_emails}</div><div class="kpi-lbl">Distinct Emails</div></div>', unsafe_allow_html=True)
+        st.markdown("")
+    with k6
+        st.markdown("")
 
     # ── TASK TABLE ───────────────────────────────────────────────────────────────
     st.markdown('<div class="sh">📋 &nbsp;Task Details</div>', unsafe_allow_html=True)
